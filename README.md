@@ -18,12 +18,14 @@ npm start
 #访问 'http://localhost:3000' 下载生成的佛历 iCal 格式日历
 ```
 ## 使用
+- 订阅
+```bash
+https://github.com/raffeyang/buddhaical/releases/download/untagged-71ad13086af21820f05b/buddha_calendar.ics
+```
+文件并导入到你的 iPhone 或 Android 日历应用中。
 
-下载 [佛历iCal](https://github.com/raffeyang/buddhaical/releases/download/untagged-71ad13086af21820f05b/buddha_calendar.ics) 文件并导入到你的 iPhone 或 Android 日历应用中。
-## 需求
-	•	Node.js v14 或更高版本
 ## 许可证
-Apache License
+[Apache License](LICENSE)
 
 ## 联系
 如有任何问题或建议，请在 GitHub 上开启一个 issue。
