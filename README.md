@@ -20,7 +20,7 @@ npm start
 ## 使用
 - 订阅
 ```bash
-https://github.com/raffeyang/buddhaical/releases/download/untagged-71ad13086af21820f05b/buddha_calendar.ics
+https://raw.githubusercontent.com/raffeyang/buddhaical/main/buddha_calendar.ics
 ```
 文件并导入到你的 iPhone 或 Android 日历应用中。
 
