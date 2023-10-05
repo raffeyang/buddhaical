@@ -19,7 +19,7 @@ npm start
 ```
 ## 使用
 
-下载 [iCal](./buddhaical.ics) 文件并导入到你的 iPhone 或 Android 日历应用中。
+下载 [佛历iCal](https://github.com/raffeyang/buddhaical/releases/download/untagged-71ad13086af21820f05b/buddha_calendar.ics) 文件并导入到你的 iPhone 或 Android 日历应用中。
 ## 需求
 	•	Node.js v14 或更高版本
 ## 许可证
